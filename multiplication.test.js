@@ -1,4 +1,4 @@
-const { multiplication, concatOdds } = require('./script');
+const { multiplication, concatOdds } = require('./index');
 
 describe('multiplication', ()=>{
   test('it multiplies two numbers correctly', () => {
